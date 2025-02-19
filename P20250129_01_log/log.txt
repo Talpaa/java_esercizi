@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-29T14:48:14.024760053Z</date>
+  <millis>1738162094024</millis>
+  <nanos>760053</nanos>
+  <sequence>0</sequence>
+  <logger>LogSuFile</logger>
+  <level>SEVERE</level>
+  <class>LogSuFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a SEVERE error message</message>
+</record>
+<record>
+  <date>2025-01-29T14:48:14.090812665Z</date>
+  <millis>1738162094090</millis>
+  <nanos>812665</nanos>
+  <sequence>1</sequence>
+  <logger>LogSuFile</logger>
+  <level>WARNING</level>
+  <class>LogSuFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a WARNING message</message>
+</record>
+<record>
+  <date>2025-01-29T14:48:14.091466782Z</date>
+  <millis>1738162094091</millis>
+  <nanos>466782</nanos>
+  <sequence>2</sequence>
+  <logger>LogSuFile</logger>
+  <level>INFO</level>
+  <class>LogSuFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is an INFO message</message>
+</record>
+<record>
+  <date>2025-01-29T14:48:14.092344324Z</date>
+  <millis>1738162094092</millis>
+  <nanos>344324</nanos>
+  <sequence>3</sequence>
+  <logger>LogSuFile</logger>
+  <level>CONFIG</level>
+  <class>LogSuFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a CONFIG message</message>
+</record>
+<record>
+  <date>2025-01-29T14:48:14.092934481Z</date>
+  <millis>1738162094092</millis>
+  <nanos>934481</nanos>
+  <sequence>4</sequence>
+  <logger>LogSuFile</logger>
+  <level>FINE</level>
+  <class>LogSuFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a FINE debug message</message>
+</record>
+<record>
+  <date>2025-01-29T14:48:14.093319064Z</date>
+  <millis>1738162094093</millis>
+  <nanos>319064</nanos>
+  <sequence>5</sequence>
+  <logger>LogSuFile</logger>
+  <level>FINER</level>
+  <class>LogSuFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a FINER debug message (more detailed)</message>
+</record>
+<record>
+  <date>2025-01-29T14:48:14.093518554Z</date>
+  <millis>1738162094093</millis>
+  <nanos>518554</nanos>
+  <sequence>6</sequence>
+  <logger>LogSuFile</logger>
+  <level>FINEST</level>
+  <class>LogSuFile</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a FINEST debug message (most detailed)</message>
+</record>
+</log>

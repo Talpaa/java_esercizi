@@ -1,0 +1,5 @@
+v1,Roma,Milano,a1,12:00,13:00,false
+v2,Roma,Parigi,a2,10:30,12:00,true
+v3,Roma,Amsterdam,a3,9:10,11:00,true
+v4,Barcellona,Roma,a1,01:00,01:00,true
+v5,Roma,Parigi,a4,12:02,13:02,true

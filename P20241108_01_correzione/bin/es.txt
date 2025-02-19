@@ -1,0 +1,28 @@
+if(false) {
+			//Persona p1 = (Persona)ParseClass.Parse("Persona");
+			//Persona p1 = (Persona)ParseClass.Parse(Persona.class);
+			//System.out.println(p1);
+			
+			Studente s1 = (Studente)ParseClass.Parse("Studente");
+			
+			System.out.println(s1);
+			
+			Paziente paz1 = (Paziente)ParseClass.Parse("Paziente");
+			
+			System.out.println(paz1);
+			
+			EssereVivente ev1 = new EssereVivente() {
+				
+				@Override
+				public void SetColoreOcchi(String s) {
+					// TODO Auto-generated method stub
+					
+				}
+				
+				@Override
+				public String GetColoreOcchi(String s) {
+					// TODO Auto-generated method stub
+					return null;
+				}
+			};
+		}

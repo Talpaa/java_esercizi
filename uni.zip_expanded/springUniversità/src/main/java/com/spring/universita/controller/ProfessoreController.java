@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -20,7 +21,8 @@ import com.spring.universita.service.ProfessoreService;
 @RequestMapping(path = "/universita/professore")
 public class ProfessoreController {
 
-private ProfessoreService service = new ProfessoreService();
+	@Autowired
+	private ProfessoreService service;
 	
 	@RequestMapping(path = "/carica", consumes = MediaType.APPLICATION_JSON_VALUE)
 	public Boolean caricaProf(@RequestBody ProfessoreDTO stud) {

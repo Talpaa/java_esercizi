@@ -1,2 +1,53 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.time.Year"/>
+    <fullyQualifiedTypeName name="com.spring.apprubrica.dto.RubricaDTO"/>
+    <fullyQualifiedTypeName name="com.spring.apprubrica.dto.ProprietarioCreazioneDTO"/>
+    <fullyQualifiedTypeName name="com.spring.apprubrica.service.RubricaService"/>
+    <fullyQualifiedTypeName name="com.spring.apprubrica.dao.DAOAppRubrica"/>
+    <fullyQualifiedTypeName name="com.spring.apprubrica.dto.rubrica.RubricaDTO"/>
+    <fullyQualifiedTypeName name="com.spring.apprubrica.utility.ConversioniContatto"/>
+    <fullyQualifiedTypeName name="com.spring.apprubrica.dto.rubrica.ProprietarioCreazioneDTO"/>
+    <fullyQualifiedTypeName name="com.spring.apprubrica.dto.contatto.ContattoDTO"/>
+    <fullyQualifiedTypeName name="checked.IncrementoNegativoException"/>
+    <fullyQualifiedTypeName name="checked.Impiegato"/>
+    <fullyQualifiedTypeName name="unchecked.MainArrayList"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="com.spring.apprubrica.entity.Rubrica"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.spring.apprubrica.entity.Contatto"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.spring.apprubrica.utility.ConversioniRubrica"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="com.spring.studente.dao.DaoStudente"/>
+    <fullyQualifiedTypeName name="com.spring.studente.service.StudenteService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.spring.studente.dto.StudenteDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="com.spring.impiegato.service.ImpiegatoService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PatchMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.spring.impiegato.conversioni.Conversione"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+    <fullyQualifiedTypeName name="com.spring.impiegato.dto.ImpiegatoDTO"/>
+    <fullyQualifiedTypeName name="com.spring.impiegato.dto.ImpiegatoNomeCognomeDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+</qualifiedTypeNameHistroy>
